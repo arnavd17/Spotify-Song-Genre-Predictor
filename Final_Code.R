@@ -1,5 +1,5 @@
 rm(list = ls())
-setwd("C:/Users/pivo/Documents/GitHub/R_project")
+
 library(readr)
 library(kknn)
 library(gbm)
